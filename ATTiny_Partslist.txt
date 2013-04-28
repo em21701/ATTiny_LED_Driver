@@ -1,0 +1,24 @@
+Partlist
+
+Exported from ATTiny5.sch at 4/17/13 7:26 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value           Device          Package          Library                    Sheet
+
+C1       .1u             C-USC0805       C0805            resistor                   1
+C2       .1u             C-USC0805       C0805            resistor                   1
+D1       CD1206-B260     CD1206-B260     D1206            Personal                   1
+L1       B82442H1104K    B82442H1104K    B82442H          Personal                   1
+Q1       BSP100          BSP100          SOT223           Personal                   1
+R1       10k             R-US_R1206      R1206            resistor                   1
+R2       .1              R-US_R1206      R1206            resistor                   1
+R3       10k             R-US_R1206      R1206            resistor                   1
+R4       900             R-US_R1206      R1206            resistor                   1
+R5       300             R-US_R1206      R1206            resistor                   1
+U1       SPX5205M5-L-3-3 SPX5205M5-L-3-3 SOT95P280X145-5N Exar_By_element14_Batch_1  1
+U2       ATTINY5-TSHR    ATTINY5-TSHR    SOT95P280X145-6N Atmel_By_element14_Batch_1 1
+X1       DIODES          MPT2            2POL254          con-phoenix-254            1
+X2                       MPT3            3POL254          con-phoenix-254            1
