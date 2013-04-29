@@ -68,10 +68,11 @@
 <hole x="28.448" y="1.524" drill="3.175"/>
 <text x="26.162" y="0.508" size="0.508" layer="16" font="vector" ratio="20" rot="MR0">EWM 20130417
 AT DRIVER</text>
-<text x="14.097" y="10.7696" size="0.8128" layer="25">D</text>
+<text x="14.2494" y="8.6106" size="0.8128" layer="25">D</text>
 <text x="8.4582" y="3.8354" size="0.8128" layer="25">C</text>
 <text x="4.8006" y="10.3886" size="0.8128" layer="25">G</text>
-<text x="15.24" y="5.5118" size="0.8128" layer="25">R</text>
+<text x="15.113" y="5.6642" size="0.8128" layer="25">R</text>
+<text x="9.3726" y="7.6962" size="0.8128" layer="25">V</text>
 </plain>
 <libraries>
 <library name="Exar_By_element14_Batch_1">
