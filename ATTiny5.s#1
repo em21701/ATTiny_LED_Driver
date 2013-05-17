@@ -6081,10 +6081,7 @@ chip</description>
 </part>
 <part name="SUPPLY17" library="supply2" deviceset="GND" device=""/>
 <part name="RESET" library="Personal" deviceset="TPI" device=""/>
-<part name="T1" library="transistor" deviceset="BC846" device="">
-<attribute name="DIGIKEY" value="BC846BMTFCT-ND"/>
-<attribute name="DIGIKEY_COST" value=".17"/>
-</part>
+<part name="T1" library="transistor" deviceset="BC846" device=""/>
 <part name="SUPPLY18" library="supply2" deviceset="GND" device=""/>
 </parts>
 <sheets>
@@ -6176,10 +6173,7 @@ chip</description>
 </instance>
 <instance part="SUPPLY17" gate="GND" x="33.02" y="137.16"/>
 <instance part="RESET" gate="G$1" x="114.3" y="88.9"/>
-<instance part="T1" gate="G$1" x="53.34" y="38.1" rot="MR0">
-<attribute name="DIGIKEY" x="53.34" y="38.1" size="1.778" layer="96" rot="MR0" display="off"/>
-<attribute name="DIGIKEY_COST" x="53.34" y="38.1" size="1.778" layer="96" rot="MR0" display="off"/>
-</instance>
+<instance part="T1" gate="G$1" x="53.34" y="38.1" rot="MR0"/>
 <instance part="SUPPLY18" gate="GND" x="50.8" y="10.16"/>
 </instances>
 <busses>

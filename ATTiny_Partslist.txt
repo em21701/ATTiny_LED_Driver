@@ -1,24 +1,17 @@
-Partlist
+Qty	Value	Device	Package	Parts	Description	DIGIKEY	DIGIKEY_COST	Sub Total
+1	.1u	C-USC0805	C0805	C2	"CAPACITOR, American symbol"	445-7534-1-ND	0.1	0.1
+1	1	R-US_R2512	R2512	R2	"RESISTOR, American symbol"	A102191CT-ND	0.14	0.14
+1	100u	AVE107M25X16T-F	CDE-AVE-X	C1		338-1805-1-ND	0.21	0.21
+2	10k	R-US_R1206	R1206	"R1, R3"	"RESISTOR, American symbol"	RMCF1206JT10K0CT-ND	0.05	0.1
+1	10n	C-USC0603	C0603	C3	"CAPACITOR, American symbol"	445-1311-1-ND	0.1	0.1
+1	300	R-US_R1206	R1206	R5	"RESISTOR, American symbol"	RMCF1206JT300RCT-ND	0.05	0.05
+1	910	R-US_R1206	R1206	R4	"RESISTOR, American symbol"	RMCF1206JT910RCT-ND	0.05	0.05
+1	ATTINY5-TSHR	ATTINY5-TSHR	SOT95P280X145-6N	U2	Microcontroller	ATTINY10-TSHRCT-ND	0.69	0.69
+1	BC846	BC846	SOT23	T1	NPN TRANSISTOR	BC846BMTFCT-ND	0.17	0.17
+1	BSP100	BSP100	SOT223	Q1		568-6956-1-ND	0.69	0.69
+1	CD1206-B260	CD1206-B260	D1206	D1	CD1206-B260 Schottky Diode 60V 2A 1206	CD1206-B260CT-ND	0.49	0.49
+1	SPX5205M5-L-3-3	SPX5205M5-L-3-3	SOT95P280X145-5N	U1	"150mA, LOW-NOISE LDO VOLTAGE REGULATOR"	1016-1251-ND	0.6	0.6
+1	SRN8040	SRN8040	SRN8040	L1		SRN8040-101MCT-ND	0.54	0.54
 
-Exported from ATTiny5.sch at 4/17/13 7:26 PM
 
-EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
-
-Assembly variant: 
-
-Part     Value           Device          Package          Library                    Sheet
-
-C1       .1u             C-USC0805       C0805            resistor                   1
-C2       .1u             C-USC0805       C0805            resistor                   1
-D1       CD1206-B260     CD1206-B260     D1206            Personal                   1
-L1       B82442H1104K    B82442H1104K    B82442H          Personal                   1
-Q1       BSP100          BSP100          SOT223           Personal                   1
-R1       10k             R-US_R1206      R1206            resistor                   1
-R2       .1              R-US_R1206      R1206            resistor                   1
-R3       10k             R-US_R1206      R1206            resistor                   1
-R4       900             R-US_R1206      R1206            resistor                   1
-R5       300             R-US_R1206      R1206            resistor                   1
-U1       SPX5205M5-L-3-3 SPX5205M5-L-3-3 SOT95P280X145-5N Exar_By_element14_Batch_1  1
-U2       ATTINY5-TSHR    ATTINY5-TSHR    SOT95P280X145-6N Atmel_By_element14_Batch_1 1
-X1       DIODES          MPT2            2POL254          con-phoenix-254            1
-X2                       MPT3            3POL254          con-phoenix-254            1
+							Total Cost	3.93
